@@ -1,3 +1,8 @@
+artifacts
+cache
+.openzeppelin
+ignition/**
+
 # Logs
 logs
 *.log
